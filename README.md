@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello there! I'm Igor, a brazilian student with a technical diploma in Administration and an interest in technology. I recently got into college to pursue a Bachelor's Degree in Computer Science. I'm currently learning programming, aiming to focus on backend development and databases
 
 <!--
 **IgorMassone/IgorMassone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
