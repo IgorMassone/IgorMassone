@@ -1,8 +1,6 @@
 # Hey, I'm Igor! 👋
 
-I'm a 17-year-old Brazilian CS student at FIAP (São Paulo), studying on a full 
-Prouni scholarship. I also hold a technical diploma in Administration from ETEC 
-de Carapicuíba.
+Hello there! I'm Igor, a brazilian student with a technical diploma in Administration and an interest in technology. I recently got into college to pursue a Bachelor's Degree in Computer Science. I'm currently learning programming, aiming to focus on backend development and databases
 
 ## About Me
 - 🎓 1st year Computer Science student @ FIAP (evening classes)
