@@ -1,13 +1,15 @@
 # Hey, I'm Igor! 👋
 
-Hello there! I'm Igor, a brazilian student with a technical diploma in Administration and an interest in technology. I recently got into college to pursue a Bachelor's Degree in Computer Science. I'm currently learning programming, aiming to focus on backend development and databases
+I'm a 17-year-old Brazilian CS student at FIAP (São Paulo), studying on a full
+Prouni scholarship. I also hold a technical diploma in Administration from ETEC
+de Carapicuíba.
 
 ## About Me
 - 🎓 1st year Computer Science student @ FIAP (evening classes)
-- 💡 Interested in backend development, cybersecurity, and low-level computing
+- 💡 Interested in AI, Machine Learning, and cybersecurity
 - 🐍 Currently building my skills in Python, data structures, and algorithms
-- 🔐 Long-term goal: transition into AppSec / API security
-- 🤖 Exploring AI and the OpenAI API
+- 🤖 Exploring AI/ML and the OpenAI API
+- 🔐 Interest in low-level computing and AppSec
 - 📺 Mr. Robot fan (obviously)
 
 ## Tech Stack
@@ -19,14 +21,14 @@ Hello there! I'm Igor, a brazilian student with a technical diploma in Administr
 
 ## Currently Learning
 - Data Structures & Algorithms
-- Assembly (x86 Linux)
-- Java (Spring Boot — next step)
-- Python
+- Python (core + libraries)
+- AI & Machine Learning fundamentals
+- OpenAI API
 
 ## Goals
 - 🏢 Land a Jovem Aprendiz / internship in tech
 - 🔨 Build real projects for my portfolio
-- 📈 Grow from backend dev into cybersecurity
+- 📈 Grow into Machine Learning and AI Engineering
 <!--
 **IgorMassone/IgorMassone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
