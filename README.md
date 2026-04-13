@@ -23,6 +23,7 @@ de Carapicuíba.
 - Data Structures & Algorithms
 - Assembly (x86 Linux)
 - Java (Spring Boot — next step)
+- Python
 
 ## Goals
 - 🏢 Land a Jovem Aprendiz / internship in tech
