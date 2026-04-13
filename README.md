@@ -1,5 +1,33 @@
-Hello there! I'm Igor, a brazilian student with a technical diploma in Administration and an interest in technology. I recently got into college to pursue a Bachelor's Degree in Computer Science. I'm currently learning programming, aiming to focus on backend development and databases
+# Hey, I'm Igor! 👋
 
+I'm a 17-year-old Brazilian CS student at FIAP (São Paulo), studying on a full 
+Prouni scholarship. I also hold a technical diploma in Administration from ETEC 
+de Carapicuíba.
+
+## About Me
+- 🎓 1st year Computer Science student @ FIAP (evening classes)
+- 💡 Interested in backend development, cybersecurity, and low-level computing
+- 🐍 Currently building my skills in Python, data structures, and algorithms
+- 🔐 Long-term goal: transition into AppSec / API security
+- 🤖 Exploring AI and the OpenAI API
+- 📺 Mr. Robot fan (obviously)
+
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+## Currently Learning
+- Data Structures & Algorithms
+- Assembly (x86 Linux)
+- Java (Spring Boot — next step)
+
+## Goals
+- 🏢 Land a Jovem Aprendiz / internship in tech
+- 🔨 Build real projects for my portfolio
+- 📈 Grow from backend dev into cybersecurity
 <!--
 **IgorMassone/IgorMassone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
