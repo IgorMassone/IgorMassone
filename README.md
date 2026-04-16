@@ -1,7 +1,5 @@
-# Hey, I'm Igor! 👋
-
-I'm a 17-year-old Brazilian CS student at FIAP (São Paulo), studying on a full
-Prouni scholarship. I also hold a technical diploma in Administration from ETEC
+# Hey! Welcome to my profile :D
+I'm a 17-year-old Brazilian CS student at FIAP (São Paulo). I also hold a technical diploma in Administration from ETEC
 de Carapicuíba.
 
 ## About Me
