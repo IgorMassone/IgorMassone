@@ -27,6 +27,12 @@ de Carapicuíba.
 - 🏢 Land a Jovem Aprendiz / internship in tech
 - 🔨 Build real projects for my portfolio
 - 📈 Grow into Machine Learning and AI Engineering
+
+<div>
+ <a href="https://github.com/alexandrerussi">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrerussi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrerussi&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 <!--
 **IgorMassone/IgorMassone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
