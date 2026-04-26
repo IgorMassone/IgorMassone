@@ -1,41 +1,76 @@
-# Hey! Welcome to my profile :D
-I'm a 17-year-old Brazilian CS student at FIAP (São Paulo). I also hold a technical diploma in Administration from ETEC
-de Carapicuíba.
+<h1 align="center">Hey! Welcome to my profile :D</h1>
+<h3 align="center">Igor Massone</h3>
 
-## About Me
+<p align="center">
+  I'm a 17-year-old Brazilian CS student at <strong>FIAP</strong> (São Paulo) 🇧🇷 <br>
+  I also hold a technical diploma in Administration from <strong>ETEC de Carapicuíba</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:igormassone06@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## 🙋 About Me
+
 - 🎓 1st year Computer Science student @ FIAP (evening classes)
-- 💡 Interested in AI, Machine Learning, and cybersecurity
-- 🐍 Currently building my skills in Python, data structures, and algorithms
+- 💡 Interested in AI, Machine Learning, and Cybersecurity
+- 🐍 Currently building skills in Python, data structures, and algorithms
 - 🤖 Exploring AI/ML and the OpenAI API
 - 🔐 Interest in low-level computing and AppSec
 - 📺 Mr. Robot fan (obviously)
 
-## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+---
 
-## Currently Learning
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=flask,tensorflow,pytorch" />
+</div>
+
+### Currently Learning
+
 - Data Structures & Algorithms
 - Python (core + libraries)
 - AI & Machine Learning fundamentals
 - OpenAI API
+- x86 Assembly
 
-## Goals
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMassone&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorMassone&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorMassone/IgorMassone/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorMassone/IgorMassone/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IgorMassone/IgorMassone/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🎯 Goals
+
 - 🏢 Land a Jovem Aprendiz / internship in tech
 - 🔨 Build real projects for my portfolio
 - 📈 Grow into Machine Learning and AI Engineering
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://github.com/IgorMassone">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IgorMassone&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMassone&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<!--
-**IgorMassone/IgorMassone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Goals
+
+- 🏢 Land a Jovem Aprendiz / internship in tech
+- 🔨 Build real projects for my portfolio
+- 📈 Grow into Machine Learning and AI Engineering
 
 Here are some ideas to get you started:
 
