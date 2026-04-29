@@ -58,8 +58,3 @@
 - 🔨 Build real projects for my portfolio
 - 📈 Grow into Machine Learning and AI Engineering
 
-## 🎯 Goals
-
-- 🏢 Land a Jovem Aprendiz / internship in tech
-- 🔨 Build real projects for my portfolio
-- 📈 Grow into Machine Learning and AI Engineering
