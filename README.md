@@ -2,7 +2,7 @@
 <h3 align="center">Igor Massone</h3>
 
 <p align="center">
-  I'm a 17-year-old Brazilian CS student at <strong>FIAP</strong> (São Paulo) 🇧🇷 <br>
+  I'm a 18-year-old Brazilian CS student at <strong>FIAP</strong> (São Paulo) 🇧🇷 <br>
   I also hold a technical diploma in Administration from <strong>ETEC de Carapicuíba</strong>
 </p>
 
